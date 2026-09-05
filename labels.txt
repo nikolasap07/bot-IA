@@ -1,0 +1,2 @@
+0 comida saludable
+1 comida chatarra
